@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  border-radius: 1ch;
+}
+ul {
+  list-style-type: none;
+}
+.view {
+  padding: 0.5rem;
+  color: black;
+  background-color: rgba(172, 231, 124, 0.281);
+  font: bold;
+}
